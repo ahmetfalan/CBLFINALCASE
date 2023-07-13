@@ -5,12 +5,12 @@
 
 ## General Rules:
 There must be 2 programs.
-  - Main Program: BATCHPRG
-  - Sub Program: BATCHIDX
+  - Main Program: BATCHPRG.
+  - Sub Program: BATCHIDX.
 There must be 3 files:
-  - Input File: Z95752.QSAM.INP
-  - Output File: Z95752.QSAM.OUTP
-  - Data File: Z95752.VSAM.AA (I can not import the VSAM file here so I imported the QSAM file)
+  - Input File: Z95752.QSAM.INP.
+  - Output File: Z95752.QSAM.OUTP.
+  - Data File: Z95752.VSAM.AA (I can not import the VSAM file here so I imported the QSAM file).
 The main program should read the input file and report the operations made in the sub program to the output file.
 The sub program should only handle VSAM file.
 
