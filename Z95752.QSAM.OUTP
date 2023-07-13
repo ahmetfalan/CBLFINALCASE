@@ -1,0 +1,16 @@
+REPORT FOR BATCH PROGRAM
+ID        DOVIZ   OPERATION      RC     DESCRIPTION                   FIRST NAME     FIRST NAME(U)  LAST NAME      LAST NAME(U)
+----------------------------------------------------------------------------------------------------------------------------------
+10004     942     UPDATE         00     RECORD UPDATE.                FA LA N        FALAN          BOYLE          BOYLI
+10003     942     UPDATE         00     RECORD UPDATE.                GE RE K SI Z   GEREKSIZ       DATA           DETE
+10002     942     UPDATE         00     RECORD UPDATE.                M EH M ET      MEHMET         AYDIN          EYDIN
+10055     256     UPDATE         23     RECORD NOT FOUND!             -              -              -              -
+10001     941     UPDATE         00     RECORD UPDATE.                MUS TA F A     MUSTAFA        YILMAZ         YILMEZ
+10001     941     DELETE         00     RECORD DELETE.                MUSTAFA        -              YILMEZ         -
+10055     256     DELETE         23     RECORD NOT FOUND!             -              -              -              -
+10001     941     WRITE          00     RECORD WRITE.                 A H  MET       -              KALAYCI        -
+10001     941     UPDATE         00     RECORD UPDATE.                A H  MET       AHMET          KALAYCI        KELEYCI
+10001     941     READ           00     RECORD READ.                  AHMET          -              KELEYCI        -
+10001     941     WRITE          23     THIS RECORD ALREADY ADDED!    -              -              -              -
+E: INVALID OPERATION TYPE!
+10022     941     DELETE         23     RECORD NOT FOUND!             -              -              -              -
