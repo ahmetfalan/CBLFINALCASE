@@ -14,8 +14,8 @@ There must be 3 files:
   - Output File: Z95752.QSAM.OUTP.
   - Data File: Z95752.VSAM.AA (I can not import the VSAM file here so I imported the QSAM file).
 </br> </br>
-The main program should read the input file and report the operations made in the sub program to the output file.
-The sub program should only handle VSAM file.
+
+The main program should read the input file and report the operations made in the sub program to the output file. The sub program should only handle VSAM file.
 </br>
 
 There are 4 mandatory statement: SET - STRING - EVALUATE - INSPECT
